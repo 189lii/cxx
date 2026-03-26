@@ -4,7 +4,7 @@ set -e
 # ========== 配置区 ==========
 TG_TOKEN="7756669471:AAFstxnzCweHItNptwOf7UU-p6xj3pwnAI8"
 TG_CHAT_ID="1792396794"
-SNI_DOMAIN="aws.amazno.com"
+SNI_DOMAIN="aws.amazon.com"
 TLS_PWD="CD098CDSA4894C9D8S97AD741C1111111"
 SS_PORT=8443
 LISTEN_PORT=443
